@@ -464,3 +464,44 @@ box-shadow: 0px 6px 10px var(--primary);
 }
 
 /* Portfolio Ends */
+
+/* Testimonials */
+
+.testimonials--section {
+  display: flex;
+  padding: 112px 84px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 80px;
+  background-color: var(--bg-shade);
+}
+
+.sections--heading {
+  color: var(--heading-color);
+}
+
+.testimonials--section--card {
+  display: flex;
+  padding: 43px;
+  flex-direction: column;
+  gap: 43px;
+  border-radius: 10px;
+  border: 1.5 dashed var(--primary);
+}
+
+.testimonials--section--card--review {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.testimonials--section--card-author--detail {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+}
+
+.testimonials--author--name {
+  font-weight: 700;
+  color: var(--heading-color);
+}
