@@ -24,5 +24,28 @@
             "title": "Bordados",
             "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus"
         }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image-1.jpg",
+            "title": "Uniformes",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus",
+            "link": "veja"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-2.jpg",
+            "title": "Fantasias",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus",
+            "link": "veja"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-3.jpg",
+            "title": "Infantil",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus",
+            "link": "veja"
+        }
     ]
 }
