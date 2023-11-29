@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "id": "1",
+            "src": "./img/service-chain-1.png",
+            "title": "Confecção",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus"
+        },
+        {
+            "id": "2",
+            "src": "./img/service-chain-2.png",
+            "title": "Reformas",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus"
+        },
+        {
+            "id": "3",
+            "src": "./img/service-chain-3.png",
+            "title": "Customização",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus"
+        },
+        {
+            "id": "4",
+            "src": "./img/service-chain-4.png",
+            "title": "Bordados",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita perspiciatis debitis aliquam, necessitatibus, nulla sequi at possimus"
+        }
+    ]
+}
