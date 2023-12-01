@@ -7,7 +7,7 @@ export default function ContactUs() {
                 <p className="text-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, asperiores!</p>
             </div>
             <form action="" className="contact--form--container">
-                <div className="container">
+                <div className="contact--container">
                     <label htmlFor="first-name" className="contact--label">
                         <span className="name-md">Nome:</span>
                         <input type="text"
