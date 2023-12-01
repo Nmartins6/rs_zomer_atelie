@@ -1,5 +1,6 @@
 import AboutUs from "../AboutUs";
 import ContactUs from "../ContactUs";
+import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import Portfolio from "../Portfolio";
 import ServicesOffered from "../ServicesOffered";
@@ -14,6 +15,7 @@ export default function Home() {
             <Portfolio />
             <Testimonials />
             <ContactUs />
+            <Footer />
         </>
     )
 }
